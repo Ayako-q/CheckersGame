@@ -1,0 +1,4 @@
+Project by Oleksii Ishchenko
+
+Files from the packages UI and Core are in the corresponding folders.
+The main class that will start the game is located in ui/Launch.java
